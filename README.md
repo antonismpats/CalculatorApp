@@ -22,7 +22,7 @@ This HTML code has the following components:
 -A container div with a class of "container" to hold the calculator. <br />
 -A calculator div with a class of "calculator" to contain the form. <br />
 
- A form containing: <br />
+### A form containing: <br />
 
 -A display area for the calculator result, implemented using an input field with the type "text". <br />
 -Calculator buttons for numbers, arithmetic operations, and clearing the display. <br />
@@ -39,7 +39,7 @@ padding and border in the element's total width and height calculations. <br />
 -The calculator class styles the calculator div with a background color of #1e2c3a (dark blue), some padding <br />
 and a border-radius to give it rounded corners. <br />
 
-The calculator form input styles the calculator buttons: <br /> 
+### The calculator form input styles the calculator buttons: <br /> 
 
 -They have no border or outline, a circular shape with a width and height of 60px, and a border-radius of 100px <br />
 to make them circular. They have a box-shadow for a 3D effect and a transparent background. <br />
@@ -47,7 +47,7 @@ to make them circular. They have a box-shadow for a 3D effect and a transparent 
 -They are spaced out with a margin of 10px. <br />
 -The font weight is set to 500. <br />
 
-The form .display styles the display area of the calculator: <br />
+### The form .display styles the display area of the calculator: <br />
 
 -It uses flexbox to align its contents horizontally. <br />
 -The input field inside it is styled with a text-align of right, a flex-grow property to fill the available <br />
