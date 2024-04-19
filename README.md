@@ -19,12 +19,12 @@ enhances the usability of the application.
 
 This HTML code has the following components:
 
--A container div with a class of "container" to hold the calculator.
--A calculator div with a class of "calculator" to contain the form.
--A form containing:
--A display area for the calculator result, implemented using an input field with the type "text".
--Calculator buttons for numbers, arithmetic operations, and clearing the display.
--Each button has an onclick attribute that triggers JavaScript functions to update the display accordingly.
+-A container div with a class of "container" to hold the calculator. <br />
+-A calculator div with a class of "calculator" to contain the form. <br />
+-A form containing: <br />
+-A display area for the calculator result, implemented using an input field with the type "text". <br />
+-Calculator buttons for numbers, arithmetic operations, and clearing the display. <br />
+-Each button has an onclick attribute that triggers JavaScript functions to update the display accordingly. <br />
 
 ## About CSS
 
