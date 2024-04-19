@@ -1,4 +1,4 @@
-# Calculator
+# Calculator App Using HTML, CSS and Javascript
 
 ## Overview
 The calculator provides a simple and accessible input mechanism for users to enter numbers and perform calculations.
