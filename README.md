@@ -1,4 +1,5 @@
 # Calculator App Using HTML, CSS and Javascript
+![result](https://github.com/antonismpats/CalculatorApp/assets/161160300/47d5df52-f582-4231-a27a-63f53bc98c93)
 
 ## Overview
 The calculator provides a simple and accessible input mechanism for users to enter numbers and perform calculations.
