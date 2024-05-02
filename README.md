@@ -2,13 +2,13 @@
 ![result](https://github.com/antonismpats/CalculatorApp/assets/161160300/47d5df52-f582-4231-a27a-63f53bc98c93)
 
 ## Overview
-The calculator provides a simple and accessible input mechanism for users to enter numbers and perform calculations.
+The calculator provides a mechanism for users to enter numbers and perform calculations.
 The input field allows users to type numbers directly or use the provided buttons for convenience.
 The calculator buttons are designed to perform specific operations such as addition, subtraction, multiplication,
 division, and clearing the input. Each button has a distinct visual style and performs its intended function when clicked.
 
 ## Design
-The calculator features a modern and visually appealing design with a dark theme and contrasting button colors. 
+The calculator has a design with a dark theme and contrasting button colors. 
 The use of box shadows and rounded corners adds depth and dimension to the interface, enhancing the overall user experience.
 
 ## Functionality
